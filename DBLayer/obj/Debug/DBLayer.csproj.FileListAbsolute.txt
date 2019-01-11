@@ -1,0 +1,5 @@
+E:\Database Management System\Final\StudentManagementApp\DBLayer\bin\Debug\DBLayer.dll
+E:\Database Management System\Final\StudentManagementApp\DBLayer\bin\Debug\DBLayer.pdb
+E:\Database Management System\Final\StudentManagementApp\DBLayer\obj\Debug\DBLayer.csprojResolveAssemblyReference.cache
+E:\Database Management System\Final\StudentManagementApp\DBLayer\obj\Debug\DBLayer.dll
+E:\Database Management System\Final\StudentManagementApp\DBLayer\obj\Debug\DBLayer.pdb

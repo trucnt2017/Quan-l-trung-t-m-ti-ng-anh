@@ -1,0 +1,5 @@
+E:\Database Management System\Final\StudentManagementApp\DataGridViewNumberUpDown\bin\Debug\DataGridViewNumberUpDown.dll
+E:\Database Management System\Final\StudentManagementApp\DataGridViewNumberUpDown\bin\Debug\DataGridViewNumberUpDown.pdb
+E:\Database Management System\Final\StudentManagementApp\DataGridViewNumberUpDown\obj\Debug\DataGridViewNumberUpDown.csprojResolveAssemblyReference.cache
+E:\Database Management System\Final\StudentManagementApp\DataGridViewNumberUpDown\obj\Debug\DataGridViewNumberUpDown.dll
+E:\Database Management System\Final\StudentManagementApp\DataGridViewNumberUpDown\obj\Debug\DataGridViewNumberUpDown.pdb
